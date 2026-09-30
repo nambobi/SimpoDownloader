@@ -1,0 +1,7 @@
+# unfinished downloads and their state files
+*.part
+*.part.json
+*.part.old
+*.previous
+*.tmp
+__pycache__/
